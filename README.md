@@ -12,3 +12,9 @@ App Ideas:
 ................. 
 finalized app idea:
 2. An app which gives brand names for a drug under one generic name
+ 
+I'm going to use following APIs:
+http://www.goodrx.com/developer#fair-price-api
+http://www.programmableweb.com/api/stepstools
+
+I have implemented all the UIs.
